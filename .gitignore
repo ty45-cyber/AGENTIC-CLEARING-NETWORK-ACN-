@@ -4,6 +4,7 @@ video/
 *.mp4
 *.mov
 *.mkv
+*.zip
 
 # Environment variables & secrets (keep .env.example tracked)
 .env
